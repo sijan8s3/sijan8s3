@@ -40,7 +40,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/sijan8s3/github-readme-streak-stats">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sijan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sijan8s3&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -48,8 +48,8 @@
 ### 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/sijan8s3/github-readme-stats"><img alt="Sijan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sijan8s3&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/sijan8s3/github-readme-stats"><img alt="Sijan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sijan8s3&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/ashutosh00710/github-readme-stats"><img alt="Sijan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sijan8s3&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/DenverCoder1/github-readme-stats"><img alt="Sijan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sijan8s3&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
