@@ -1,6 +1,6 @@
 ### Hello world! The Name's Sijan!👋
 
-<img align="right" width="500" src="https://media.giphy.com/media/a8rlSHPozsTEuh1ibJ/giphy.gif"/>
+<img align="right" width="400" src="https://media.giphy.com/media/a8rlSHPozsTEuh1ibJ/giphy.gif"/>
 
 ### An android developer, CSIT Student and Microsoft Learn Student Ambassador
 
