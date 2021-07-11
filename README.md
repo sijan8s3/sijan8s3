@@ -2,8 +2,7 @@
 
 <img align="right" width="400" src="https://media.giphy.com/media/a8rlSHPozsTEuh1ibJ/giphy.gif"/>
 
-### An Android Developer, CSIT Student and <br> Microsoft Learn Student Ambassador
-
+### An Android Developer, CSIT Student and <br> [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile/69781)
 
 - 🔭 I’m currently working on **[Movement Tracker App](#)**
 - 🌱 I’m currently learning **Android Testing and Django**
