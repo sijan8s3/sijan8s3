@@ -2,8 +2,8 @@
 
 <img align="right" width="400" src="https://media.giphy.com/media/a8rlSHPozsTEuh1ibJ/giphy.gif"/>
 
-### An android developer, CSIT Student and 
-Microsoft Learn Student Ambassador
+### An Android Developer, CSIT Student and 
+###Microsoft Learn Student Ambassador
 
 
 - 🔭 I’m currently working on **[Movement Tracker App](#)**
