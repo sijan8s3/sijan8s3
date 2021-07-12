@@ -4,7 +4,7 @@
 
 ### An Android Developer, CSIT Student and <br> [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile/69781)
 
-- 🔭 I’m currently working on **[Movement Tracker App](#)**
+- 🔭 I’m currently working on **[Running Tracker App](https://github.com/sijan8s3/RunningTracker)**
 - 🌱 I’m currently learning **Android Testing and Django**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 💬 Ask me about ***Android, Kotlin, Java and Django***
