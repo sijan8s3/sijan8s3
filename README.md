@@ -9,8 +9,8 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 💬 Ask me about ***Android, Kotlin, Java and Django***
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://sijanneupane.com.np/#project-area)**
-- 📝 I sometime write at **[Sijan's Blog](https://sijanneupane.com.np/blog/)**
-- 📫 Reach me at **[Mail](mailto:sijanneupane12@gmail.com)**
+- 📝 I sometime write at **[Sijan's Blog](https://sijanneupane.azurewebsites.net/)**
+- 📫 Reach me at **[Mail](mailto:mail@sijanneupane.com.np)**
 - ⚡ Fun fact: ***She says I'm damn funny!***
   
   <br>
