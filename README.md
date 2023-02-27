@@ -4,8 +4,8 @@
 
 ### An Android Developer, CSIT Student and <br> [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile/69781)
 
-- 🔭 I’m currently working on **Image Processing**
-- 🌱 I’m currently learning **Machine Learning**
+- 🔭 I’m currently working on **ASPEED Application**
+- 🌱 I’m currently learning **Jetpack Compose**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 💬 Ask me about ***Android, Kotlin, Java and Django***
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://sijanneupane.com.np/#project-area)**
