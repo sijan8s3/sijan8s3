@@ -4,7 +4,7 @@
 
 ### An Android Developer, CSIT Student and <br> [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile/69781)
 
-- 🔭 I’m currently working on **ASPEED Application**
+- 🔭 I’m currently building **[Devs Education](https://github.com/Devs-Education)**
 - 🌱 I’m currently learning **Jetpack Compose**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 💬 Ask me about ***Android, Kotlin, Java and Django***
