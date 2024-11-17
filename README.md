@@ -1,76 +1,79 @@
-### Hello world! The Name's Sijan!👋
+## Hello, World! I'm **Sijan Neupane** 👋  
 
-<img align="right" width="400" src="https://media.giphy.com/media/a8rlSHPozsTEuh1ibJ/giphy.gif"/>
+I’m a **Native Android Developer**, **CSIT Graduate**, and passionate **problem solver** based in Toronto, Canada. With a strong foundation in **Jetpack Compose**, **Kotlin**, and **full-stack development**, I bring a hands-on approach to building scalable, intuitive, and user-friendly digital experiences.  
 
-### An Android Developer, CSIT Student and <br> [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile/69781)
+🚀 Whether it’s crafting seamless **Android apps**, collaborating on **open-source projects**, or building robust **backend APIs**, I’m always exploring ways to create impactful technology solutions. Let’s connect and turn innovative ideas into reality!  
 
-- 🔭 I’m currently building **[Devs Education](https://github.com/Devs-Education)**
-- 🌱 I’m currently learning **Jetpack Compose**
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-- 💬 Ask me about ***Android, Kotlin, Java and Django***
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://sijanneupane.com.np/#project-area)**
-- 📝 I sometime write at **[Sijan's Blog](https://sijanneupane.azurewebsites.net/)**
-- 📫 Reach me at **[Mail](mailto:mail@sijanneupane.com.np)**
-- ⚡ Fun fact: ***She says I'm damn funny!***
-  
-  <br>
+---
 
-### 🚀 Languages and Tools:
+### 🔧 **What I Do**
+- 🏗 Building modern **Android apps** with Jetpack Compose & Compose Multiplatform.  
+- 🌍 Contributing to **open-source** and collaborating with diverse teams.  
+- 🧠 Constantly learning and exploring **cutting-edge tech** to stay ahead.  
+- 🎯 Focusing on clean architecture, modular design, and seamless user experiences.  
 
-<p align="left">
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>    
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> 
-    <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/>  
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.android.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-os.png"/> </a>
-    <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a>
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <img src="https://img.icons8.com/color/48/000000/django.png"/>  
-    <img width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"/>  
-    <img width="48" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"/>  
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-</p>
+---
 
-<br/>
+### 🚀 **My Toolbox**
 
+#### **Languages**
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+#### **Frameworks & Libraries**
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%2335C0D6.svg?style=for-the-badge&logo=android&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
+
+#### **Tools**
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 **GitHub Stats**
+
+#### **GitHub Streaks**
 <p align="center">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sijan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sijan8s3&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=sijan8s3&theme=dark&hide_border=true" />
     </a>
 </p>
 
-### 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sijan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sijan8s3&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sijan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sijan8s3&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Sijan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sijan8s3&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-### Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/sijanneupane/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/sijan_8s3"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-
+#### **Detailed Stats**
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sijan8s3&show_icons=true&count_private=true&theme=algolia&hide_border=true" />
+    </a>
 </p>
 
-### ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=sijan8s3">
-</a>
-<a href="https://github.com/sijan8s3?tab=followers"><img src="https://img.shields.io/github/followers/sijan8s3?label=Followers&style=social" alt="GitHub Badge"></a>
+#### **Top Languages**
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sijan8s3&langs_count=6&layout=compact&theme=algolia&hide_border=true" />
+    </a>
+</p>
+
+#### **Activity Graph**
+<p align="center">
+    <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+        <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=sijan8s3&theme=react-dark&hide_border=true" />
+    </a>
+</p>
+
+---
+
+### 🌐 **Let’s Connect**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sijanneupane/)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sijan_8s3)  
+📧 Email: [sijanneupane12@gmail.com](mailto:sijanneupane12@gmail.com)  
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=sijan8s3&style=flat-square&color=blue)  
+![GitHub Followers](https://img.shields.io/github/followers/sijan8s3?label=Followers&style=flat-square&color=blue)
